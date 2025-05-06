@@ -1,5 +1,4 @@
-a few months ago a customer paid me upfront to make this solver but never paid the rest and I never delivered it, so instead of letting the solver just sit there I wanted to share it on github in case it helps others. cloudflare uses lzw compression and translating it to python is tricky so I didn't bother and sandboxed it.
-
+a few months ago a customer paid me upfront to make this solver but never paid the rest and I never delivered it, so instead of letting the solver just sit there I wanted to share it on github in case it helps others.
 
 the deobfuscator I use is https://github.com/ben-sb/obfuscator-io-deobfuscator, thanks to ben for his awesome obf.io deobfuscator!
 
